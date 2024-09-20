@@ -37,14 +37,6 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" /></a>&nbsp;
 </p>
  
-  
-### 👨‍💻 &nbsp;Other skills
-
-<p>
-  <a href='https://www.raspberrypi.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry"  alt="Raspberry" width="40" height="40"/></a>&nbsp;
-  <a href='https://discord.com/developers/docs/intro' target="_blank" rel="noreferrer"><img src="https://github.com/StasKobles/StasKobles/blob/main/discord-mark-blue.svg" title="Discord"  alt="Discord" width="40" height="40"/></a>&nbsp;
-   <a href='https://core.telegram.org/' target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" title="Telegram"  alt="Telegram" width="40" height="40"/></a>&nbsp;
-</p>
 
 ### 🛠️ &nbsp; Workspace
 <p>
