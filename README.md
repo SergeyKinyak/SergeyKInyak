@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/SergeyKinyak/" target="_blank">Sereja</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
